@@ -2,7 +2,15 @@
 
 This document outlines the RACI matrix for tasks typically carried out by data professionals within a project. The matrix assigns roles and responsibilities using the RACI framework: Responsible (R), Accountable (A), Consulted (C), and Informed (I).
 
-## RACI Matrix
+## Step 2: Assign Responsibility for the First Three Tasks
+
+| **Task**                     | **BI Engineer** | **Data Scientist** | **Analytics Team Manager** | **Data Engineer** |
+|------------------------------|-----------------|--------------------|----------------------------|-------------------|
+| **Access to data**           | R               | C                  | I                          | R                 |
+| **Create models to analyze data** | C          | R                  | A                          | C                 |
+| **Drive insights and recommendations based on data** | R       | C                  | A                          | I                 |
+
+## Step 3: Expand the RACI Matrix by Adding the Chief Data Officer and the New Task
 
 | **Task**                     | **BI Engineer** | **Data Scientist** | **Analytics Team Manager** | **Data Engineer** | **Chief Data Officer** |
 |------------------------------|-----------------|--------------------|----------------------------|-------------------|-------------------------|
